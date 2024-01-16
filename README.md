@@ -33,7 +33,7 @@ How to build Books from the sources
 
 Prerequisites: JDK 7, Maven 3, Tesseract 3.02
 
-**Changing Java Version**<br>
+### Changing Java Version ### <br>
 You will need two versions of Java to work on this project. Book require JDK 7 and Sonarqube requires Java 11. So you will have to change Java versions for working on different parts.
 
 ### For Globally Changing Java Version (Only on Ubuntu) 
@@ -72,7 +72,7 @@ export JAVA_HOME=/usr/lib/jvm/<jdk-version-something>
 Windows users, this is your cross to bear. [Here's](https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html) a guide that might be of use. Again, feel free to contact us for any help.  
  
 
-Books is organized in several Maven modules:
+### Books is organized in several Maven modules: ###
 
   - books-parent
   - books-core
