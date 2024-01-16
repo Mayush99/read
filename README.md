@@ -33,7 +33,7 @@ How to build Books from the sources
 
 Prerequisites: JDK 7, Maven 3, Tesseract 3.02
 
-**Changing Java Version**
+**Changing Java Version**<br>
 You will need two versions of Java to work on this project. Book require JDK 7 and Sonarqube requires Java 11. So you will have to change Java versions for working on different parts.
 
 ### For Globally Changing Java Version (Only on Ubuntu) 
