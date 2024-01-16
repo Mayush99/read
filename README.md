@@ -1,7 +1,7 @@
 Sismics Books - Project 1
 =========================
 
-**Do not modify this README. Use the [docs](/docs/) directory for anything you might want to submit**
+**Do not modify this README. Use the docs directory for anything you might want to submit**
 
 
 What is Books?
