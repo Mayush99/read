@@ -69,7 +69,7 @@ export JAVA_HOME=/usr/lib/jvm/<jdk-version-something>
 
 
 **On Windows**  
-Windows users, this is your cross to bear. [Here's]([https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html](https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html)) a guide that might be of use. Again, feel free to contact us for any help.  
+Windows users, this is your cross to bear. [Here's](https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html](https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html)) a guide that might be of use. Again, feel free to contact us for any help.  
  
 
 ### Books is organized in several Maven modules: ###
